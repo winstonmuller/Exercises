@@ -7,3 +7,8 @@ A solution full of short programming exercises, mainly for myself. Some may be i
 # To Add
 
 Using existing .net time zone functionality create a world clock timezone converter.
+
+
+# Blog Posts
+
+- What is stdafx.h ?
